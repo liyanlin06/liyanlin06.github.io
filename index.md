@@ -23,4 +23,5 @@ I have conducted scientific research and training in the following areas or issu
 
 {% include_relative _includes/publications.md %}
 
+{% inclued_relative _includes/awards.md %}
 {% include_relative _includes/services.md %}
