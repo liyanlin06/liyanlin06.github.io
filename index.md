@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Research Fellow in the [School of Computer Science and Engineering (SCSE)](https://www.ntu.edu.sg/scse) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
-I obtained my Ph.D. degree in 2023 from NTU, where I was fortunate to receive insightful guidance from [Professor Mo Li](https://cse.hkust.edu.hk/~lim/).
-I received my B.E. degree in 2017 from the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/), [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
-<!-- Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [中文](./assets/files/CV/CV-Yanbo_Chinese2.pdf)) for more detailed information.  -->
-Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed information.
+Thanks for visiting my homepage. My name is Yanlin Li. I am a final year undergraduate in [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
+Please refer to my [CV](./assets/files/CV20240307.pdf) for more detailed information.
 
 ## Research Interests
 
-- **Smart sensing:** Wireless based passive tracking, gesture recognition and sensing
-- **LoRaWAN system:** Collision avoidance, Full-duplex, Adaptive Data Rate (ADR)
+I have conducted scientific research and training in the following areas or issues.
+- **Eye tracking based on virtual reality (VR):** Wireless based passive tracking, gesture recognition and sensing
+- **Queueing theory via reinforcement learning:** Collision avoidance, Full-duplex, Adaptive Data Rate (ADR)
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
-- **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
+- **[Mar 2024]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
 - **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to TMC 2023. 
 - **[January 2023]** Successfully defending my Ph.D thesis. 
 
