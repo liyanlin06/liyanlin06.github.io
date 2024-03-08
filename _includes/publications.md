@@ -2,6 +2,8 @@
 
 <div class="publications">
 <ol class="bibliography">
+  
+<p style="margin: 15px 0px -15px;">(*) denotes corresponding author</p>
 
 {% for link in site.data.publications.main %}
 
