@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 60px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+
+<p style="margin: 15px 0px -15px;">(*) denotes corresponding author</p>
 
 <div class="publications">
 <ol class="bibliography">
-  
-<p style="margin: 15px 0px -15px;">(*) denotes corresponding author</p>
 
 {% for link in site.data.publications.main %}
 
