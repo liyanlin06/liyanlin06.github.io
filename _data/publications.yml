@@ -1,30 +1,11 @@
 main:
 
-  - title: "WiRITE: General and Practical Wi-Fi based Hand-Writing Recognition"
-    authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Mo Li
-    conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
-    pdf: ./assets/files/publications_pdf/WiRITE.pdf
-    # code: https://yanbozhang003.github.io/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:trfhNyif0V4J:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCErWk:AFWwaeYAAAAAZaOCtWmyUOVsykJZLHu7gobgvwY&scisig=AFWwaeYAAAAAZaOCtVUGQqh6x5jqD_ruF8SIL70&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/publications_img/WiRITE.JPG
-
-  - title: "Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput"
-    authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Yidong Ren, Sung-ju Lee, Mo Li
-    conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2022.
-    pdf: ./assets/files/publications_pdf/WiRITE.pdf
-    # code: https://yanbozhang003.github.io/
+  - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking onVR Headsets via Knowledge Distillation"
+    authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen
+    conference_short: Preprint
+    conference: Submit to International Conference on Wireless Algorithms, Systems, and Applications <strong>(WASA)</strong>, 2024.
+    # pdf: ./assets/files/publications_pdf/SWAN.pdf
+    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:di9IUWx--KMJ:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCB034:AFWwaeYAAAAAZaOHy34o83qGyuTrJ_bceYMHLeA&scisig=AFWwaeYAAAAAZaOHy6l58jp0UvxVpibcs0CnrbY&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/publications_img/WINAS_padded.png
-
-  - title: "SWAN: Stitched Wi-Fi ANtennas"
-    authors: Yaxiong Xie, <strong>Yanbo Zhang</strong>, Jansen Christian Liando, Mo Li
-    conference_short: MobiCom
-    conference: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking <strong>(MobiCom)</strong>, 2018.
-    pdf: ./assets/files/publications_pdf/SWAN.pdf
-    code: https://github.com/xieyaxiongfly/SWAN_src_AP
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:V4PEMbqI4roJ:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCPJC8:AFWwaeYAAAAAZaOJPC8qlxiX0cJ3OIk6AHyzTtQ&scisig=AFWwaeYAAAAAZaOJPMU77axRMbxfl0a7YQa0_8I&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/publications_img/SWAN_padded.png
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:V4PEMbqI4roJ:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCPJC8:AFWwaeYAAAAAZaOJPC8qlxiX0cJ3OIk6AHyzTtQ&scisig=AFWwaeYAAAAAZaOJPMU77axRMbxfl0a7YQa0_8I&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/publications_img/KD-Eye.png
