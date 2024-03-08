@@ -1,7 +1,5 @@
 ##  Awards
 
-There are selected awards. 
-
 - **Outstanding Undergraduate Graduate**, Shandong University, Jan. 2024
 - **Second Prize (Bonus RMB 10000)**, 2023 Summer Intel oneAPI Campus Hackathon Competition, Nov. 2023
 - **Third Prize**, Shandong University Academic Scholoship, Oct. 2023
