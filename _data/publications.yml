@@ -3,7 +3,7 @@ main:
   - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking on VR Headsets via Knowledge Distillation"
     authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen*
     conference_short: Preprint
-    conference: Submit to International Conference on Wireless Algorithms, Systems, and Applications <strong>(WASA)</strong>, 2024.
+    conference: Submit to International Conference on Wireless Algorithms, Systems, and Applications <strong>(WASA)</strong>, 2024. <strong>(CCF-C)</strong>
     # pdf: ./assets/files/publications_pdf/SWAN.pdf
     # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
