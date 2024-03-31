@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Thanks for visiting my homepage. My name is Yanlin Li. I am a final year undergraduate in [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
-Please refer to my [CV](./assets/files/CV20240314.pdf) for more detailed information.
+Please refer to my [CV](./assets/files/CV20240401.pdf) for more detailed information.
 
 I am actively looking for <font color='red'>PhD/MPhil/RA</font> positions. Contact me if you have any leads! Deeply obliged.
 
