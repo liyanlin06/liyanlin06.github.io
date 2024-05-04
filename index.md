@@ -17,6 +17,7 @@ I have conducted scientific research and training in the following areas or issu
 
 
 ## News
+- **[May. 2024]** Iam honored to be the **Meritorious Winner** in The Mathematical Contest in Modeling (MCM). Thanks to my collaborators.
 - **[Mar. 2024]** My homepage is updated and online.
 - **[Jan. 2024]** I am glad to be selected an outstanding undergraduate graduate of Shandong University. 
 - **[Oct. 2022]** I join AIoT@SDU Lab as a research assistant, advised by [Prof. Yiran Shen](https://faculty.sdu.edu.cn/shenyiran/en/index.htm).
