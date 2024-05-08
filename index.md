@@ -17,6 +17,7 @@ I have conducted scientific research and training in the following areas or issu
 
 
 ## News
+- **[May. 2024]** I am glad to receive an Master of Computing(Aritificial Intelligence) offer from the NUS.
 - **[May. 2024]** KD-Eye has been accepted by WASA 2024 (CCF-C).
 - **[May. 2024]** I am honored to be the **Meritorious Winner** in The Mathematical Contest in Modeling (MCM). Thanks to my collaborators.
 - **[Mar. 2024]** My homepage is updated and online.
