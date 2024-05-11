@@ -7,7 +7,6 @@ layout: homepage
 Greetings and thanks for visiting my homepage. 
 
 My name is Yanlin Li. I am a final year undergraduate in [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China. From August 2024, I am going to be a Master of Computing (Aritificial Intelligence) in the [School of Computing](https://www.comp.nus.edu.sg/) at [National University of Singapore](https://nus.edu.sg/).
-Please refer to my [CV](./assets/files/CV20240506.pdf) for more detailed information.
 
 I am actively looking for <font color='red'>PhD/RA</font> positions in 2026 Spring or 2026 Fall. Contact me if you have any leads! Deeply obliged.
 
