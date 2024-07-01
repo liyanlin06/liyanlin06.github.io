@@ -22,8 +22,8 @@ linkedin: https://www.linkedin.cn/in/yanlin-li-2b411826b/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile/me3.jpg
-favicon: ./assets/img/SDU.png
-favicon_dark: ./assets/img/SDU.png
+favicon: ./assets/img/fullcolorlogo.jpg
+favicon_dark: ./assets/img/fullcolorlogo.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
