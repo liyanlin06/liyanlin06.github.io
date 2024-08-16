@@ -6,9 +6,9 @@ layout: homepage
 
 Greetings and thanks for visiting my homepage. 
 
-My name is Yanlin Li. I am going to be a Master of Computing (Artificial Intelligence) at the [School of Computing](https://www.comp.nus.edu.sg/) at [National University of Singapore](https://nus.edu.sg/) from August 2024. Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
+My name is Yanlin Li. I am a Master of Computing (Artificial Intelligence specialization) student at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/) from August 2024. Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
 
-I am actively looking for <font color='red'>PhD/RA</font> positions in 2026 Spring or 2026 Fall. Contact me if you have any leads! Deeply obliged.
+I am actively looking for <font color='red'>PhD</font> positions in 2026 Spring or 2026 Fall and I am looking for <font color='red'>RA</font> opportunities. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
 
 ## Research Interests
 
