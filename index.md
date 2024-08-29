@@ -18,6 +18,7 @@ I have conducted scientific research and training in the following areas or issu
 
 
 ## News
+- **[Aug. 2024]** I am honored to be a **finalist** for the **NUS GRTII Scholarship** (SGD 45,000).
 - **[May. 2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
 - **[May. 2024]** KD-Eye has been accepted by **WASA 2024** (CCF-C).
 - **[May. 2024]** I am honored to be the **Meritorious Winner** in The Mathematical Contest in Modeling (MCM). Thanks to my collaborators.
