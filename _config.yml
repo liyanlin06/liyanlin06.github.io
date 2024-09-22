@@ -21,7 +21,7 @@ github_link: https://github.com/liyanlin06/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile/me3.jpg
+avatar: ./assets/img/profile/me.jpg
 favicon: ./assets/img/fullcolorlogo_v.jpg
 favicon_dark: ./assets/img/fullcolorlogo_v.jpg
 
