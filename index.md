@@ -18,7 +18,7 @@ networks based on queueing theory
 
 
 ## News
-- **[Aug. 2024]** I am honored to be awarded the **NUS GRTII Scholarship** (SGD 45,000).
+- **[Aug. 2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
 - **[May. 2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
 - **[May. 2024]** KD-Eye has been accepted by **WASA 2024** (CCF-C).
 - **[May. 2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
