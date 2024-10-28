@@ -13,15 +13,15 @@ I am actively looking for <font color='red'>PhD</font> positions in 2026 Spring 
 ## Research Interests
 
 I have conducted scientific research and training in the following areas or issues.
-- **Virtual Reality:** Eye tracking based on virtual reality (VR)
-- **Operation Research:** Queueing theory via reinforcement learning
+- **ML System:** Eye tracking based on virtual reality (VR) and dynamic resource configuration of computing power
+networks based on queueing theory
 
 
 ## News
 - **[Aug. 2024]** I am honored to be a **finalist** for the **NUS GRTII Scholarship** (SGD 45,000).
 - **[May. 2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
 - **[May. 2024]** KD-Eye has been accepted by **WASA 2024** (CCF-C).
-- **[May. 2024]** I am honored to be the **Meritorious Winner** in The Mathematical Contest in Modeling (MCM). Thanks to my collaborators.
+- **[May. 2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
 - **[Mar. 2024]** My homepage is updated and online.
 - **[Jan. 2024]** I am glad to be selected an **outstanding undergraduate graduate** of Shandong University. 
 - **[Oct. 2022]** I join AIoT@SDU Lab as a research assistant, advised by [Prof. Yiran Shen](https://faculty.sdu.edu.cn/shenyiran/en/index.htm).
