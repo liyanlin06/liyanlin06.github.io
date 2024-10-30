@@ -1,4 +1,5 @@
 ##  Awards
+- **nu**
 - **Meritorious Winner**, The Mathematical Contest in Modeling (MCM), May. 2024
 - **Outstanding Undergraduate Graduate**, Shandong University, Jan. 2024
 - **Second Prize (Bonus RMB 10000)**, 2023 Summer Intel oneAPI Campus Hackathon Competition, Nov. 2023
