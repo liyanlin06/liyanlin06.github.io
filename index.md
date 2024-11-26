@@ -18,13 +18,13 @@ networks based on queueing theory
 
 
 ## News
-- **[Aug. 2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
-- **[May. 2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
-- **[May. 2024]** KD-Eye has been accepted by **WASA 2024** (CCF-C).
-- **[May. 2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
-- **[Mar. 2024]** My homepage is updated and online.
-- **[Jan. 2024]** I am glad to be selected an **outstanding undergraduate graduate** of Shandong University. 
-- **[Oct. 2022]** I join AIoT@SDU Lab as a research assistant, advised by [Prof. Yiran Shen](https://faculty.sdu.edu.cn/shenyiran/en/index.htm).
+- **[08/2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
+- **[05/2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
+- **[05/2024]** One paper has been accepted by **WASA 2024** (CCF-C).
+- **[05/2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
+- **[05/2024]** My homepage is updated and online.
+- **[01/2024]** I am glad to be selected an **outstanding undergraduate graduate** of Shandong University. 
+- **[10/2022]** I join AIoT@SDU Lab as a research assistant, advised by [Prof. Yiran Shen](https://faculty.sdu.edu.cn/shenyiran/en/index.htm).
 
 {% include_relative _includes/publications.md %}
 
