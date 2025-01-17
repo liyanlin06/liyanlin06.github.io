@@ -14,7 +14,7 @@ I am actively looking for <font color='red'>PhD</font> positions in 2026 Spring 
 
 I have conducted scientific research and training in the following areas or issues.
 - **ML System:** Eye tracking based on virtual reality (VR) and dynamic resource configuration of computing power networks based on queueing theory
-- **Multi-modal LLM** LLM-based cross-lingual and cross-modal reasoning
+- **Multi-modal LLM:** LLM-based cross-lingual and cross-modal reasoning
 
 
 ## News
