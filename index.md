@@ -17,8 +17,8 @@ I have conducted scientific research and training in the following areas or issu
 - **Multi-modal LLM:** LLM-based cross-lingual and cross-modal reasoning
 
 ## Education
-- **Master of Computing (Artifical Intelligence)**, School of Computing, National University of Singapore / / / / [08/2024-01/2026]
-- **Bachelor of Software Engineering**, School of Software, Shandong University / / / / [09/2020-06/2024]
+- **Master of Computing (Artifical Intelligence)**, School of Computing, National University of Singapore. [08/2024-01/2026]
+- **Bachelor of Software Engineering**, School of Software, Shandong University. [09/2020-06/2024]
 
 ## Experiences
 - **Research Assistant**, The Centre for Trusted Internet Community, NUS, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu. [12/2024-now]
