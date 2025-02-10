@@ -6,7 +6,7 @@ layout: homepage
 
 Greetings and thanks for visiting my homepage. 
 
-My name is Yanlin Li. I am a Master of Computing (Artificial Intelligence specialization) student at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/) from August 2024, under the supervision of [Prof. Lee Mong li](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and [Dr. Hao Fei](https://haofei.vip/). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
+My name is Yanlin Li. I am a Master of Computing (Artificial Intelligence specialization) student at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/) from August 2024, under the supervision of [Prof. Mong-Li Lee] (https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and [Dr. Hao Fei](https://haofei.vip/). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
 
 I am actively looking for <font color='red'>PhD</font> positions in 2026 Spring or 2026 Fall. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
 
@@ -16,6 +16,13 @@ I have conducted scientific research and training in the following areas or issu
 - **ML System:** Eye tracking based on virtual reality (VR) and dynamic resource configuration of computing power networks based on queueing theory
 - **Multi-modal LLM:** LLM-based cross-lingual and cross-modal reasoning
 
+## Education
+- **Master of Computing (Artifical Intelligence)**, School of Computing, National University of Singapore / / / / [08/2024-01/2026]
+- **Bachelor of Software Engineering**, School of Software, Shandong University / / / / [09/2020-06/2024]
+
+## Experiences
+- **Research Assistant**, The Centre for Trusted Internet Community, NUS, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu. [12/2024-now]
+- **Research Assistant**, AIoT Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
 - **[08/2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
