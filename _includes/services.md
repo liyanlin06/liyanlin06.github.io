@@ -16,3 +16,8 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://2025.ijcnn.org/"><autocolor>IJCNN 2025</autocolor></a></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">Chanllege Organizer</h4>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://mm-hall-fact.github.io/ACMMM2025/"><autocolor>(ResMM) Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025</autocolor></a></li>
+</ul>
