@@ -22,6 +22,7 @@ I have conducted scientific research and training in the following areas or issu
 - **Research Assistant**, AIoT Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
+- **[03/2025]** Our **[Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025](https://mm-hall-fact.github.io/ACMMM2025/)** has been released. Welcome to submit your solution.
 - **[08/2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
 - **[05/2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
 - **[05/2024]** One paper has been accepted by **WASA 2024** (CCF-C).
