@@ -28,7 +28,7 @@ I have conducted scientific research and training in the following areas or issu
 - **[05/2024]** One paper has been accepted by **WASA 2024** (CCF-C).
 - **[05/2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
 - **[05/2024]** My homepage is updated and online.
-- **[01/2024]** I am glad to be selected an **outstanding undergraduate graduate** of Shandong University. 
+- **[01/2024]** I am glad to be selected an **outstanding graduate (undergraduate)** of Shandong University. 
 - **[10/2022]** I join AIoT@SDU Lab as a research assistant, advised by [Prof. Yiran Shen](https://faculty.sdu.edu.cn/shenyiran/en/index.htm).
 
 {% include_relative _includes/publications.md %}
