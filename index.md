@@ -37,6 +37,6 @@ I have conducted scientific research and training in the following areas or issu
 
 {% include_relative _includes/services.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=14325e&w=a&t=tt&d=tcKX-Xhb2sQXUPK_ki20J-QWpVMNo4--me1aIdPeSuc&co=ffffff&cmo=e36c6c&cmn=9fcfad&ct=000000&w=500'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=14325e&w=a&t=tt&d=tcKX-Xhb2sQXUPK_ki20J-QWpVMNo4--me1aIdPeSuc&co=ffffff&cmo=e36c6c&cmn=9fcfad&ct=000000&w=500&size=large'></script>
 
 
