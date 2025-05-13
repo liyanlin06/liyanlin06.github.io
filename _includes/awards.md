@@ -1,11 +1,11 @@
 ##  Awards
-- **NUS GRTII Master's Scholarship (SGD 45,000)**, NUS Guangzhou RTII, Aug. 2024
-- **Meritorious Winner**, The Mathematical Contest in Modeling (ICM), May. 2024
-- **Outstanding Undergraduate Graduate**, Shandong University, Jan. 2024
-- **Second Prize (RMB 10,000)**, 2023 Summer Intel oneAPI Campus Hackathon Competition, Nov. 2023
-- **Third Prize**, Shandong University Academic Scholoship, Oct. 2023
-- **First Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2023
-- **Third Prize**, Shandong University Academic Scholoship, Oct. 2022
-- **Second Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2022
-- **Second Prize**, The 12th National Student Market Research and Analysis Competition National Final (Top 0.66%), May. 2022
-- **Second Prize**, 2021 Asia and Pacific Mathematical Contest in Modeling, Jan. 2021
+- **NUS GRTII Master's Scholarship (SGD 45,000)**, NUS Guangzhou RTII, 08/2024
+- **Meritorious Winner**, The Mathematical Contest in Modeling (ICM), 05/2024
+- **Outstanding Undergraduate Graduate**, Shandong University, 01/2024
+- **Second Prize (RMB 10,000)**, 2023 Summer Intel oneAPI Campus Hackathon Competition, 11/2023
+- **Third Prize**, Shandong University Academic Scholoship, 10/2023
+- **First Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, 10/2023
+- **Third Prize**, Shandong University Academic Scholoship, 10/2022
+- **Second Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, 10/2022
+- **Second Prize**, The 12th National Student Market Research and Analysis Competition National Final (Top 0.66%), 05/2022
+- **Second Prize**, 2021 Asia and Pacific Mathematical Contest in Modeling, 01/2021
