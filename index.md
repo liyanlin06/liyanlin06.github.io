@@ -8,7 +8,7 @@ Greetings and thanks for visiting my homepage.
 
 My name is Yanlin Li. I am a Master of Computing (Artificial Intelligence specialization) student at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/) from August 2024, under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and [Dr. Hao Fei](https://haofei.vip/). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
 
-I am actively looking for <font color='red'>PhD</font> positions in 2026 Spring or 2026 Fall. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
+I am actively looking for <font color='red'>Ph.D</font> positions in 2026 Spring or 2026 Fall. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
 
 ## Research Interests
 
