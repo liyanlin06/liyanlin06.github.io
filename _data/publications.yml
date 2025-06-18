@@ -19,7 +19,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/publications_img/mist.png
 
-Collaborative papers:
+secondary:
 
   - title: "Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark"
     authors: Ziming Cheng, Binru Xu, Lisheng Gong, Zuhe Song, ..., <strong>Yanlin Li</strong>, ..., Xiaojie Wang, Fangxiang Feng
