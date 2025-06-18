@@ -7,7 +7,6 @@ main:
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
     # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hfKAb3wG4hMJ:scholar.google.com/&output=citation&scisdr=ClE57fwKEPrCq1dfU6k:AFWwaeYAAAAAZ-JZS6kEvELQo-rTYp3GlEUlOD0&scisig=AFWwaeYAAAAAZ-JZS_9Hp2Swwdu1kpHMvmAaK80&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/publications_img/KD-Eye.png
 
   - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
