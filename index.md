@@ -22,13 +22,15 @@ I have conducted scientific research and training in the following areas or issu
 - **Research Assistant**, AIoT Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
-- **[03/2025]** Our **<autocolor>[Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025](https://mm-hall-fact.github.io/ACMMM2025/)</autocolor>** has been released. Welcome to submit your solution.
+- **[07/2025]** One paper has been accepted by **ToMLLM@IJCAI 2025**.
+- **[03/2025]** Our **Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025** has been released. Welcome to submit your solution.
+- **[01/2025]** I join CTIC@NUS as a research assistant, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu.
 - **[08/2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
 - **[05/2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
 - **[05/2024]** One paper has been accepted by **WASA 2024** (CCF-C).
 - **[05/2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
 - **[01/2024]** I am glad to be selected an **outstanding graduate (undergraduate)** of Shandong University. 
-- **[10/2022]** I join AIoT@SDU Lab as a research assistant, advised by [Prof. Yiran Shen](https://faculty.sdu.edu.cn/shenyiran/en/index.htm).
+- **[10/2022]** I join AIoT@SDU as a research assistant, advised by Prof. Yiran Shen.
 
 {% include_relative _includes/publications.md %}
 
