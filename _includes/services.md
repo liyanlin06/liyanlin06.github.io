@@ -17,6 +17,7 @@
   <li><a href="https://2025.ijcnn.org/"><autocolor>IJCNN 2025</autocolor></a></li>
   <li><a href="http://www.ic-icc.cn"><autocolor>ICIC 2025</autocolor></a></li>
   <li><a href="https://acmmm2025.org/"><autocolor>ACM MM 2025</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>AAAI 2026</autocolor></a>></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Chanllege Organizers</h4>
