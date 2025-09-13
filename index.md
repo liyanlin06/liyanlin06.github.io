@@ -12,10 +12,16 @@ I am actively looking for <font color='red'>Ph.D</font> position in 2026 Spring 
 
 ## Research Interests
 
-I have conducted scientific research and training in the following areas or issues.
-- **ML System:** Eye tracking based on virtual reality (VR) and dynamic resource configuration of computing power networks based on queueing theory
-- **Multi-modal LLM:** LLM-based cross-lingual and cross-modal reasoning
 
+I believe that the development of technology should always be human-centered, and my long-term research goal is to build **Human-Centered AI System**.
+
+For example, people should be able to use AI tools to achieve their own purposes in natural and intuitive ways—such as generating a personalized, aesthetically enhanced portrait from an ID photo, just as the image on my homepage illustrates. (BTW, if you would like to see my unedited ID photo, please refer to my Google Scholar.)
+
+To advance this vision, I focus on three interconnected aspects:
+
+- **Interaction**: Only with natural and intuitive multimodal interaction can AI truly align with human habits, providing personalized and collaborative experiences.
+- **Cognition**: Only by understanding and simulating human cognitive mechanisms can AI better align with human ways of thinking and achieve genuine human–machine understanding.
+- **Intelligence**: Only by enhancing the overall performance of reasoning and perception can AI demonstrate efficient and flexible abilities in complex and dynamic environments, better serving human needs.
 
 ## Experiences
 - **Research Assistant**, The Centre for Trusted Internet Community, NUS, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu. [12/2024-now]
