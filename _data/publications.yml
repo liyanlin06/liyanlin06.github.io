@@ -9,8 +9,8 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/publications_img/KD-Eye.png
 
-  - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
-    authors: <strong>Yanlin Li</strong>, Hao Liu, Huimin Liu, Yinwei Wei, Yupeng Hu*
+  - title: "MIST: Towards Multi-dimensional Implicit Bias Evaluation of LLMs via Theory of Mind"
+    authors: <strong>Yanlin Li</strong>, Hao Liu, Huimin Liu, Kun Wang, Yinwei Wei, Yupeng Hu*
     conference_short: ToMLLM@IJCAI 2025
     conference: Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025
     pdf: https://arxiv.org/abs/2506.14161
