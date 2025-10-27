@@ -32,6 +32,4 @@ main:
     conference_short: ACM MM GC 2025
     conference: The 33nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025
     pdf: https://dl.acm.org/doi/10.1145/3746027.3762048
-    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/publications_img/trml.png
+    image: ./assets/img/publications_img/mmrb.png
