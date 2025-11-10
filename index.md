@@ -15,8 +15,6 @@ I am actively looking for <font color='red'>Ph.D</font> position in 2026 Spring 
 
 I believe that the development of technology should always be human-centered, and my long-term research goal is to build **Human-Centered AI System**.
 
-For example, people should be able to use AI tools to achieve their own purposes in natural and intuitive ways—such as generating a personalized, aesthetically enhanced portrait from an ID photo, just as the image on my homepage illustrates. (BTW, if you would like to see my unedited ID photo, please refer to my Google Scholar.)
-
 To advance this vision, I focus on three interconnected aspects:
 
 - **Interaction**: Only with natural and intuitive multimodal interaction can AI truly align with human habits, providing personalized and collaborative experiences.
