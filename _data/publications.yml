@@ -30,6 +30,6 @@ main:
   - title: "The ACM Multimedia 2025 Grand Challenge of Truthful and Responsible Multimodal Learning"
     authors: Xudong Han, Kai Liu, <strong>Yanlin Li</strong>, Hao Li, Zheng Wang
     conference_short: GC@ACM MM 2025
-    conference: The 33nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025
+    conference: Grand Challenge @ The 33nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025
     pdf: https://dl.acm.org/doi/10.1145/3746027.3762048
     image: ./assets/img/publications_img/trml.png
