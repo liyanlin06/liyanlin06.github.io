@@ -13,7 +13,7 @@ I am actively looking for <font color='red'>Ph.D</font> position in 2026 Spring 
 ## Research Interests
 
 
-I believe that the development of technology should always be human-centered, and my long-term research goal is to build **Human-Centered AI System**.
+I believe that the development of technology should always be human-centered, and my long-term research goal is to build **Human-Centered AGI**.
 
 To advance this vision, I focus on three interconnected aspects:
 
