@@ -17,6 +17,10 @@ I believe that the development of technology should always be human-centered, an
 
 To advance this vision, I focus on three interconnected aspects:
 
+<p align="center">
+  <img src="assets/img/research_vision.png" width="650">
+</p>
+
 - **Interaction**: Only with natural and intuitive multimodal interaction can AI truly align with human habits, providing personalized and collaborative experiences.
 - **Cognition**: Only by understanding and simulating human cognitive mechanisms can AI better align with human ways of thinking and achieve genuine human–machine understanding.
 - **Intelligence**: Only by enhancing the overall performance of reasoning and perception can AI demonstrate efficient and flexible abilities in complex and dynamic environments, better serving human needs.
