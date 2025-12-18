@@ -18,7 +18,7 @@ I believe that the development of technology should always be human-centered, an
 To advance this vision, I focus on three interconnected aspects:
 
 <p align="center">
-  <img src="assets/img/research_vision.png" width="650">
+  <img src="assets/img/research_vision.png" width="600">
 </p>
 
 - **Interaction**: Only with natural and intuitive multimodal interaction can AI truly align with human habits, providing personalized and collaborative experiences.
