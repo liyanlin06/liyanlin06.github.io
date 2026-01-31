@@ -13,10 +13,10 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
-  <li style="display: inline"><autocolor>IJCNN 2025, 2026</autocolor></li>
-  <li style="display: inline"><autocolor>ICIC 2025</autocolor></li>
-  <li style="display: inline"><autocolor>ACM MM 2025</autocolor></li>
+<ul style="margin:0 0 20px; list-style: none; padding: 0;">
+  <li style="display: inline; margin-right: 20px;"><autocolor>IJCNN 2025, 2026</autocolor></li>
+  <li style="display: inline; margin-right: 20px;"><autocolor>ICIC 2025</autocolor></li>
+  <li style="display: inline; margin-right: 20px;"><autocolor>ACM MM 2025</autocolor></li>
   <li style="display: inline"><autocolor>AAAI 2026</autocolor></li>
 </ul>
 
