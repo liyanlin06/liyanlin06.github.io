@@ -20,7 +20,7 @@
   <li style="display: inline"><autocolor>AAAI 2026</autocolor></li>
 </ul> -->
 
-<ul style="margin:0 0 20px; padding: 0; display: flex; list-style: none;">
+<ul style="margin:0 0 20px">
   <li style="margin-right: 20px;"><autocolor>IJCNN 2025, 2026</autocolor></li>
   <li style="margin-right: 20px;"><autocolor>ICIC 2025</autocolor></li>
   <li style="margin-right: 20px;"><autocolor>ACM MM 2025</autocolor></li>
