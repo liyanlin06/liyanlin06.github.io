@@ -21,6 +21,7 @@
 </ul> -->
 
 <ul style="margin:0 0 20px">
+  <li style="margin-right: 20px;"><autocolor>CogSci 2026</autocolor></li>
   <li style="margin-right: 20px;"><autocolor>IJCNN 2025, 2026</autocolor></li>
   <li style="margin-right: 20px;"><autocolor>ICIC 2025</autocolor></li>
   <li style="margin-right: 20px;"><autocolor>ACM MM 2025</autocolor></li>
