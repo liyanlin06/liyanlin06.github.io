@@ -30,6 +30,7 @@ To advance this vision, I focus on three interconnected aspects:
 - **Research Assistant**, AIoT Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
+- **[02/2026]** One paper has been accepted by **CVPR 2026**.
 - **[07/2025]** One paper has been accepted by **ToMLLM@IJCAI 2025**.
 - **[03/2025]** Our **Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025** has been released. Welcome to submit your solution.
 - **[01/2025]** I join CTIC@NUS as a research assistant, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu.
