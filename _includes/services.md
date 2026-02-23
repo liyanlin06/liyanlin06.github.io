@@ -29,7 +29,8 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Chanllege Organizers</h4>
+<h4 style="margin:0 10px 0;">Organizers</h4>
 <ul style="margin:0 0 20px;">
+  <li><a href="https://any2any-mllm.github.io/workshop-cvpr26/"><autocolor>(A2A MML) Workshop On Any-to-Any Multimodal Learning@CVPR 2026</autocolor></a></li>
   <li><a href="https://mm-hall-fact.github.io/ACMMM2025/"><autocolor>(ResMM) Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025</autocolor></a></li>
 </ul>
