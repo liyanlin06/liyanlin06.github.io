@@ -6,7 +6,7 @@ main:
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026. <strong>(CCF-A)</strong>
     # pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
     # code: https://github.com/xieyaxiongfly/SWAN_src_AP
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://any2any-mllm.github.io/unim/
     image: ./assets/img/publications_img/UniM.png
     
   - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking on VR Headsets via Knowledge Distillation"
