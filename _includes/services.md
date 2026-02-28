@@ -11,7 +11,7 @@
 </ul> 
 -->
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <!-- <ul style="margin:0 0 20px; list-style: none; padding: 0;">
   <li style="display: inline; margin-right: 20px;"><autocolor>IJCNN 2025, 2026</autocolor></li>
@@ -21,11 +21,9 @@
 </ul> -->
 
 <ul style="margin:0 0 20px">
-  <li style="margin-right: 20px;"><autocolor>CogSci 2026</autocolor></li>
-  <li style="margin-right: 20px;"><autocolor>IJCNN 2025, 2026</autocolor></li>
-  <li style="margin-right: 20px;"><autocolor>ICIC 2025</autocolor></li>
-  <li style="margin-right: 20px;"><autocolor>ACM MM 2025</autocolor></li>
+  <li style="margin-right: 20px;"><autocolor>CogSci 2026, IJCNN 2025 2026, ICIC 2025, ACM MM 2025, AAAI 2026</autocolor></li>
   <li><autocolor>AAAI 2026</autocolor></li>
+  <li>Neurocomputing</li>
 </ul>
 
 
