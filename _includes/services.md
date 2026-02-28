@@ -22,7 +22,6 @@
 
 <ul style="margin:0 0 20px">
   <li style="margin-right: 20px;"><autocolor>CogSci 2026, IJCNN 2025 2026, ICIC 2025, ACM MM 2025, AAAI 2026</autocolor></li>
-  <li><autocolor>AAAI 2026</autocolor></li>
   <li>Neurocomputing</li>
 </ul>
 
