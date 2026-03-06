@@ -1,10 +1,10 @@
 main:
 
-  - title: "UNIM: A Unified Any-to-Any Interleaved Multimodal Benchmark"
+  - title: "UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark"
     authors: <strong>Yanlin Li</strong>, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, Haodong Li, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, Furu Wei, Hao Fei*, Mong-Li Lee, Wynne Hsu
     conference_short: CVPR 2026
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026. <strong>(CCF-A)</strong>
-    # pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
+    pdf: https://arxiv.org/abs/2603.05075
     # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     page: https://any2any-mllm.github.io/unim/
     image: ./assets/img/publications_img/UniM.png
