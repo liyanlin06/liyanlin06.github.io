@@ -32,10 +32,9 @@ To advance this vision, I focus on three interconnected aspects:
 ## News
 - **[02/2026]** One paper has been accepted by **CVPR 2026** (CCF-A).
 - **[07/2025]** One paper has been accepted by **ToMLLM@IJCAI 2025**.
-- **[03/2025]** Our **Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025** has been released. Welcome to submit your solution.
 - **[01/2025]** I join CTIC@NUS as a research assistant, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu.
 - **[08/2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
-- **[05/2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from the **NUS**.
+- **[05/2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from **NUS**.
 - **[05/2024]** One paper has been accepted by **WASA 2024** (CCF-C).
 - **[05/2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
 - **[01/2024]** I am glad to be selected an **outstanding graduate (undergraduate)** of Shandong University. 
