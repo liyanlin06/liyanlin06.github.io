@@ -6,7 +6,8 @@ layout: homepage
 
 Greetings and thanks for visiting my homepage. 
 
-My name is Yanlin Li. I am a full-time Research Assistant at [Centre for Trusted Internet Community](https://ctic.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). And also I am mentored by [Dr. Hao Fei](https://haofei.vip/) and [Dr. Shengqiong Wu](https://sqwu.top/). Before that, I obtained the degree of Master of Computing (Artificial Intelligence specialization) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/) from August 2024. I obtained the degree of Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
+My name is Yanlin Li. I am a master student at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). And also I am mentored by [Dr. Hao Fei](https://haofei.vip/) and [Dr. Shengqiong Wu](https://sqwu.top/). Before that, I obtained the degree of Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
+
 
 I am actively looking for <font color='red'>Ph.D</font> position in 2026 Fall or 2027 Spring. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
 
@@ -34,7 +35,6 @@ To advance this vision, I focus on three interconnected aspects:
 - **[07/2025]** One paper has been accepted by **ToMLLM@IJCAI 2025**.
 - **[01/2025]** I join CTIC@NUS as a research assistant, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu.
 - **[08/2024]** I am honored to be awarded the **NUS GRTII Master's Scholarship** (SGD 45,000).
-- **[05/2024]** I am glad to receive an **Master of Computing (Aritificial Intelligence)** offer from **NUS**.
 - **[05/2024]** One paper has been accepted by **WASA 2024** (CCF-C).
 - **[05/2024]** I am honored to be the **Meritorious Winner** in The Interdisciplinary Contest in Modeling (ICM). Thanks to my collaborators.
 - **[01/2024]** I am glad to be selected an **outstanding graduate (undergraduate)** of Shandong University. 
