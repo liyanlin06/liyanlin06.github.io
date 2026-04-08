@@ -8,15 +8,7 @@ main:
     # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     page: https://any2any-mllm.github.io/unim/
     image: ./assets/img/publications_img/UniM.png
-    
-  - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking on VR Headsets via Knowledge Distillation"
-    authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen*
-    conference_short: WASA 2024
-    conference: The International Conference on Wireless Artificial Intelligent Computing Systems and Applications <strong>(WASA)</strong>, 2024. <strong>(CCF-C)</strong>
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
-    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/publications_img/KD-Eye.png
+
 
   - title: "MIST: Towards Multi-dimensional Implicit Bias Evaluation of LLMs for Theory of Mind"
     authors: <strong>Yanlin Li</strong>, Hao Liu, Huimin Liu, Kun Wang, Yinwei Wei, Yupeng Hu*
@@ -27,6 +19,17 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/publications_img/mist.png
 
+
+  - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking on VR Headsets via Knowledge Distillation"
+    authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen*
+    conference_short: WASA 2024
+    conference: The International Conference on Wireless Artificial Intelligent Computing Systems and Applications <strong>(WASA)</strong>, 2024. <strong>(CCF-C)</strong>
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
+    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/publications_img/KD-Eye.png
+
+
   - title: "Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark"
     authors: Ziming Cheng, Binru Xu, Lisheng Gong, Zuhe Song, ..., <strong>Yanlin Li</strong>, ..., Xiaojie Wang, Fangxiang Feng
     conference_short: Preprint
@@ -35,6 +38,7 @@ main:
     # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/publications_img/mmrb.png
+
 
   - title: "The ACM Multimedia 2025 Grand Challenge of Truthful and Responsible Multimodal Learning"
     authors: Xudong Han, Kai Liu, <strong>Yanlin Li</strong>, Hao Li, Zheng Wang
