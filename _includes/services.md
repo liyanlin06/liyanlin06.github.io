@@ -21,7 +21,7 @@
 </ul> -->
 
 <ul style="margin:0 0 20px">
-  <li style="margin-right: 20px;"><autocolor>ECCV 2026,  AAAI 2026,  ACM MM 2025, CogSci 2026, IJCNN 2025/2026, ICIC 2025/2026</autocolor></li>
+  <li style="margin-right: 20px;"><autocolor>ECCV 2026, AAAI 2026, ACM MM 2025, CogSci 2026, IJCNN 2025/2026, ICIC 2025/2026, CTB@ICML 2026</autocolor></li>
   <li>Neurocomputing</li>
 </ul>
 
