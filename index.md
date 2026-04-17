@@ -9,7 +9,7 @@ Greetings and thanks for visiting my homepage.
 My name is Yanlin Li. I am a master student at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). And also I am mentored by [Dr. Hao Fei](https://haofei.vip/) and [Dr. Shengqiong Wu](https://sqwu.top/). Before that, I obtained the degree of Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
 
 
-I am actively looking for <font color='red'>Ph.D</font> position in 2026 Fall or 2027 Spring. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
+I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
 
 ## Research Interests
 
@@ -31,6 +31,7 @@ To advance this vision, I focus on three interconnected aspects:
 - **Research Assistant**, AIoT Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
+- **[04/2026]** I get the CS PhD from NUS!
 - **[04/2026]** Our CVPR 2026 paper UniM has been accepted by **VALSE 2026**. See you in Wuhan!
 - **[04/2026]** One paper has been accepted by **CogSci 2026** (CCF-B).
 - **[02/2026]** One paper has been accepted by **CVPR 2026** (CCF-A).
