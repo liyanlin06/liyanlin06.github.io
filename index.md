@@ -32,7 +32,7 @@ To advance this vision, I focus on three interconnected aspects:
 
 ## News
 - **[04/2026]** I get the **CS PhD** offer from **NUS**!
-- **[04/2026]** Our CVPR 2026 paper UniM has been accepted by **VALSE 2026**. See you in Wuhan!
+- **[04/2026]** Our CVPR 2026 paper UniM will be presented at **VALSE 2026**. See you in Wuhan!
 - **[04/2026]** One paper has been accepted by **CogSci 2026** (CCF-B).
 - **[02/2026]** One paper has been accepted by **CVPR 2026** (CCF-A).
 - **[07/2025]** One paper has been accepted by **ToMLLM@IJCAI 2025**.
