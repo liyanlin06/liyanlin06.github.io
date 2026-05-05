@@ -1,5 +1,5 @@
 ##  Awards
-- **NUS GRTII Master's Scholarship (SGD 45,000) (voluntarily declined)**, NUS Guangzhou RTII, 08/2024
+- **NUS GRTII Master's Scholarship (SGD 45,000) (voluntarily declined)**, NUS GRTII, 08/2024
 - **Meritorious Winner**, The Mathematical Contest in Modeling (ICM), 05/2024
 - **Outstanding Undergraduate Graduate**, Shandong University, 01/2024
 - **Second Prize (RMB 10,000)**, 2023 Summer Intel oneAPI Campus Hackathon Competition, 11/2023
