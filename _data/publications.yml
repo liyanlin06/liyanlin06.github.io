@@ -5,7 +5,7 @@ main:
     conference_short: CVPR 2026
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026. <strong>(CCF-A)</strong>
     pdf: https://arxiv.org/abs/2603.05075
-    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
+    code: https://github.com/liyanlin06/UniM
     page: https://any2any-mllm.github.io/unim/
     image: ./assets/img/publications_img/UniM.png
 
