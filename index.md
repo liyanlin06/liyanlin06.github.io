@@ -28,7 +28,7 @@ To advance this vision, I focus on three interconnected aspects:
 
 ## Experiences
 - **Research Assistant**, Centre for Trusted Internet Community, NUS, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu. [12/2024-now]
-- **Research Assistant**, AIoT Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
+- **Research Assistant**, IGIP Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
 - **[04/2026]** I get the **CS PhD** offer from **NUS**!
