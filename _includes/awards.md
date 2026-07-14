@@ -1,4 +1,5 @@
 ##  Awards
+- **NUS Research Sholarship**, SoC, NUS, 08/2026
 - **NUS GRTII Master's Scholarship (SGD 45,000) (voluntarily declined)**, NUS GRTII, 08/2024
 - **Meritorious Winner**, The Mathematical Contest in Modeling (ICM), 05/2024
 - **Outstanding Undergraduate Graduate**, Shandong University, 01/2024
