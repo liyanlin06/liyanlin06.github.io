@@ -9,7 +9,7 @@ Greetings and thanks for visiting my homepage.
 My name is Yanlin Li. I am a Ph.D. student in Computer Science at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) at [Centre for Trust Internet and Community (CTIC)](https://ctic.nus.edu.sg/). And also I work with [Dr. Hao Fei](https://haofei.vip/) and [Dr. Shengqiong Wu](https://sqwu.top/). Before that, I obtained the degree of Master of Computing (AI Specialization) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), and degree of Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
 
 
-I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
+I am open to seek some external collaborations about Agentic AI and Unified Multimodal Models. Contact me if you have any leads!
 
 ## Research Interests
 
