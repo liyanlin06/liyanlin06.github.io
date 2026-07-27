@@ -51,6 +51,12 @@ To advance this vision, I focus on three interconnected aspects:
 
 {% include_relative _includes/invited_talk.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=5297c7&w=a&t=tt&d=tcKX-Xhb2sQXUPK_ki20J-QWpVMNo4--me1aIdPeSuc&co=ffffff&cmo=e36c6c&cmn=72c282&ct=000000&w=500'></script>
+<div style="max-width: 500px; margin: 0 auto;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=myPD5OKAgfXdRB6pkiyTmdRK9RNPqrMX2-p4OyppMWI&cl=5297c7&w=a&t=tt&co=ffffff&cmo=e36c6c&cmn=72c282&ct=000000">
+  </script>
+</div>
 
 
