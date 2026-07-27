@@ -49,6 +49,8 @@ To advance this vision, I focus on three interconnected aspects:
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/invited_talk.md %}
+
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=5297c7&w=a&t=tt&d=tcKX-Xhb2sQXUPK_ki20J-QWpVMNo4--me1aIdPeSuc&co=ffffff&cmo=e36c6c&cmn=72c282&ct=000000&w=500'></script>
 
 
