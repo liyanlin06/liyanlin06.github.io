@@ -31,6 +31,7 @@ To advance this vision, I focus on three interconnected aspects:
 - **Research Assistant**, IGIP Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
+- **[09/2026]** Our **AI for Game** survey is released on arXiv.
 - **[04/2026]** I get the **CS PhD** offer from **NUS**!
 - **[04/2026]** Our CVPR 2026 paper UniM will be presented at **VALSE 2026**. See you in Wuhan!
 - **[04/2026]** One paper has been accepted by **CogSci 2026** (CCF-B).
