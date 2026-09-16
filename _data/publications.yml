@@ -1,7 +1,7 @@
 main:
   - title: "AI for Games in the Foundation Model Era"
     authors: Meng Luo, <strong>Yanlin Li</strong>, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu
-    conference_short: HF Daily Paper \#2
+    conference_short: "HF Daily Paper #2"
     conference: arXiv 2026
     pdf: https://arxiv.org/abs/2609.16679
     code: https://github.com/Eurekaleo/awesome-ai-for-games
