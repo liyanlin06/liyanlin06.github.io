@@ -1,4 +1,13 @@
 main:
+
+  - title: "Omni-IO Skills: Harnessing Your Agent Omni-Native"
+    authors: <strong>Yanlin Li</strong>, Mingyang Hao, Shengqiong Wu, Hao Fei, Mong-Li Lee, Wynne Hsu
+    conference_short: "Technical Report"
+    conference: arXiv, 2026
+    pdf: https://arxiv.org/abs/2609.31847
+    code: https://github.com/any2any-mllm/Omni-IO-Skill
+    image: ./assets/img/publications_img/omni-io-skills.png
+
   - title: "AI for Games in the Foundation Model Era"
     authors: Meng Luo, <strong>Yanlin Li</strong>, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu
     conference_short: "HF Daily Paper #2"
