@@ -21,7 +21,7 @@
 </ul> -->
 
 <ul style="margin:0 0 20px">
-  <li style="margin-right: 20px;"><autocolor>ICLR 2027, ECCV 2026, ACL ARR March/May/August 2026, ACM MM 2025/2026, AAAI 2026/2027, CogSci 2026, IJCNN 2025/2026/2027, ICIC 2025/2026</autocolor></li>
+  <li style="margin-right: 20px;"><autocolor>ICLR 2027, ECCV 2026, ACL ARR March/May/August/October 2026, ACM MM 2025/2026, AAAI 2026/2027, CogSci 2026, IJCNN 2025/2026/2027, ICIC 2025/2026</autocolor></li>
   <li>Neurocomputing</li>
 </ul>
 
