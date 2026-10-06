@@ -2,7 +2,7 @@ main:
 
   - title: "Omni-IO Skills: Harnessing Your Agent Omni-Native"
     authors: <strong>Yanlin Li</strong>, Mingyang Hao, Shengqiong Wu, Hao Fei, Mong-Li Lee, Wynne Hsu
-    conference_short: "Technical Report"
+    conference_short: "HF Daily Paper #2"
     conference: arXiv, 2026
     pdf: https://arxiv.org/abs/2609.31847
     code: https://github.com/any2any-mllm/Omni-IO-Skill
