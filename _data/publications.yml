@@ -1,25 +1,16 @@
 main:
 
   - title: "Omni-IO Skills: Harnessing Your Agent Omni-Native"
-    authors: <strong>Yanlin Li</strong>, Mingyang Hao, Shengqiong Wu, Hao Fei, Mong-Li Lee, Wynne Hsu
+    authors: <strong>Yanlin Li</strong>, Mingyang Hao, Shengqiong Wu, Hao Fei#, Mong-Li Lee, Wynne Hsu
     conference_short: "HF Daily Paper #2"
     conference: arXiv, 2026
     pdf: https://arxiv.org/abs/2609.31847
     code: https://github.com/any2any-mllm/Omni-IO-Skill
     image: ./assets/img/publications_img/omni-io-skills.png
 
-  - title: "AI for Games in the Foundation Model Era"
-    authors: Meng Luo, <strong>Yanlin Li</strong>, Hao Li, Hongzhan Lin, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu
-    conference_short: "HF Daily Paper #2"
-    conference: arXiv, 2026
-    pdf: https://arxiv.org/abs/2609.16679
-    code: https://github.com/Eurekaleo/awesome-ai-for-games
-    page: https://eurekaleo.github.io/awesome-ai-for-games/
-    image: ./assets/img/publications_img/ai4game.png
 
-    
   - title: "UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark"
-    authors: <strong>Yanlin Li</strong>, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, Haodong Li, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, Furu Wei, Hao Fei*, Mong-Li Lee, Wynne Hsu
+    authors: <strong>Yanlin Li</strong>, Minghui Guo, Kaiwen Zhang, Shize Zhang, Yiran Zhao, Haodong Li, Congyue Zhou, Weijie Zheng, Yushen Yan, Shengqiong Wu, Wei Ji, Lei Cui, Furu Wei, Hao Fei#, Mong-Li Lee, Wynne Hsu
     conference_short: CVPR 2026
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026. <strong>(CCF-A)</strong>
     pdf: https://arxiv.org/abs/2603.05075
@@ -29,7 +20,7 @@ main:
 
 
   - title: "MIST: Towards Multi-dimensional Implicit Bias Evaluation of LLMs for Theory of Mind"
-    authors: <strong>Yanlin Li</strong>, Hao Liu, Huimin Liu, Kun Wang, Yinwei Wei, Yupeng Hu*
+    authors: <strong>Yanlin Li</strong>, Hao Liu, Huimin Liu, Kun Wang, Yinwei Wei, Yupeng Hu#
     conference_short: CogSci 2026
     conference: The Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025 & The Annual Meeting of the Cognitive Science Society <strong>(CogSci)</strong>, 2026 <strong>(CCF-B)</strong>
     pdf: https://escholarship.org/content/qt5bz4119n/qt5bz4119n.pdf
@@ -39,13 +30,31 @@ main:
 
 
   - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking on VR Headsets via Knowledge Distillation"
-    authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen*
+    authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen#
     conference_short: WASA 2024
     conference: The International Conference on Wireless Artificial Intelligent Computing Systems and Applications <strong>(WASA)</strong>, 2024. <strong>(CCF-C)</strong>
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
-    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/publications_img/KD-Eye.png
+
+
+  - title: "VitronEdit: Universal Visual Editing across Images, Videos, and 3D Scenes"
+    authors: Jing Wang*, <strong>Yanlin Li</strong>*, Mong-Li Lee, Wynne Hsu, Shengqiong Wu#, Hao Fei#
+    conference_short: "Preprint"
+    conference: arXiv, 2026
+    pdf: https://arxiv.org/abs/2610.27049
+    code: https://github.com/Vitron-LLM/VitronEdit-Code
+    page: https://vitron-llm.github.io/VitronEdit/
+    image: ./assets/img/publications_img/vitronedit.png
+
+
+ - title: "AI for Games in the Foundation Model Era"
+    authors: Meng Luo, <strong>Yanlin Li</strong>, Hao Li, Hongzhan Lin#, Pengfei Zhou, Tianjie Ju, Ran Zhang, Yeying Jin, Mong-Li Lee, Wynne Hsu
+    conference_short: "HF Daily Paper #2"
+    conference: arXiv, 2026
+    pdf: https://arxiv.org/abs/2609.16679
+    code: https://github.com/Eurekaleo/awesome-ai-for-games
+    page: https://eurekaleo.github.io/awesome-ai-for-games/
+    image: ./assets/img/publications_img/ai4game.png
 
 
   - title: "Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark"
