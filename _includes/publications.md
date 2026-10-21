@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<p style="margin: 15px 0px -15px;">(*) denotes corresponding author</p>
+<p style="margin: 15px 0px -15px;">(*) Equal contribution, (#) Corresponding author</p>
 
 <div class="publications">
 <ol class="bibliography">
