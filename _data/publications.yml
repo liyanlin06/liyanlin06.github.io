@@ -56,6 +56,14 @@ main:
     page: https://eurekaleo.github.io/awesome-ai-for-games/
     image: ./assets/img/publications_img/ai4game.png
 
+  - title: "Toward Recursive Self-Improvement in Physical AI"
+    authors: Meng Luo, Zechen Bai, Shanqing Xu, <strong>Yanlin Li</strong>, Kaixin Li, Mengchen Qian, Weifeng Lu, Ran Zhang, Yingtian Zou, Ziyang Luo, Wei Chen, Hongzhan Lin#
+    conference_short: "Preprint"
+    conference: arXiv, 2026
+    pdf: https://arxiv.org/abs/2610.29677
+    code: https://github.com/Physical2RSI/Awesome-Physical2RSI
+    page: https://physical2rsi.github.io/
+    image: ./assets/img/publications_img/physical2rsi.webp
 
   - title: "Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark"
     authors: Ziming Cheng, Binru Xu, Lisheng Gong, Zuhe Song, ..., <strong>Yanlin Li</strong>, ..., Xiaojie Wang, Fangxiang Feng
