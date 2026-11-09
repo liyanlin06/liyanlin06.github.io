@@ -6,7 +6,7 @@ layout: homepage
 
 Greetings and thanks for visiting my homepage. 
 
-My name is Yanlin Li. I am a Ph.D. student in Computer Science at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) at [Centre for Trust Internet and Community (CTIC)](https://ctic.nus.edu.sg/). And also I work with [Dr. Hao Fei](https://haofei.vip/) and [Dr. Shengqiong Wu](https://sqwu.top/). Before that, I obtained the degree of Master of Computing (AI Specialization) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), and degree of Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
+My name is Yanlin Li. I am a Ph.D. student in Computer Science at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), under the supervision of [Prof. Mong-Li Lee](https://www.comp.nus.edu.sg/~leeml/) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) at [Centre for Trust Internet and Community (CTIC)](https://ctic.nus.edu.sg/). Before that, I obtained the degree of Master of Computing (AI Specialization) at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), and degree of Bachelor of Software Engineering at the [School of Software](https://www.sc.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/) in China.
 
 
 I am open to seek some external collaborations about Agentic AI and Unified Multimodal Models. Contact me if you have any leads!
@@ -27,7 +27,7 @@ To advance this vision, I focus on three interconnected aspects:
 - **Intelligence**: Only by enhancing the overall performance of reasoning and perception can AI demonstrate efficient and flexible abilities in complex and dynamic environments, better serving human needs.
 
 ## Experiences
-- **Research Assistant**, Centre for Trusted Internet Community, NUS, advised by Dr. Hao Fei, Prof. Mong-Li Lee and Prof. Wynne Hsu. [12/2024-now]
+- **Research Assistant**, Centre for Trusted Internet Community, NUS, advised Prof. Mong-Li Lee and Prof. Wynne Hsu. [12/2024-now]
 - **Research Assistant**, IGIP Lab, SDU, advised by Prof. Yiran Shen. [10/2022-06/2024]
 
 ## News
